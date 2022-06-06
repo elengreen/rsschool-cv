@@ -37,10 +37,10 @@ Deposit Calculator (C++)
 	cout << "Profit: " << income << ", total payout amount: " << deposit + income << "\n";
 
 ## **Education**
->**Siberian Federal University** 
->faculty of Applied Informatics 
->(2019-2023)
->*Krasnoyarsk, Russia*
+>**Siberian Federal University**  
+faculty of Applied Informatics  
+(2019-2023)  
+*Krasnoyarsk, Russia*
 	
 ## **Languages**
  * *Russian* - Native
