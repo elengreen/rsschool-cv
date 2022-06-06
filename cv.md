@@ -35,6 +35,12 @@ Deposit Calculator (C++)
 	cin >> percent;
 	income = deposit * percent/100 * months/12;
 	cout << "Profit: " << income << ", total payout amount: " << deposit + income << "\n";
+
+## **Education**
+**Siberian Federal University** 
+faculty of Applied Informatics
+(2019-2023)
+*Krasnoyarsk, Russia*
 	
 ## **Languages**
  * *Russian* - Native
