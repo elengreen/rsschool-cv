@@ -50,14 +50,14 @@
                         <code>
                             int months, percent;<br>
                             float deposit, income;<br>
-                            cout << "Please, enter the deposit amount: ";<br>
-                            cin >> deposit;<br>
-                            cout << "Enter the number of months: ";<br>
-                            cin >> months;<br>
-                            cout << "Enter the annual interest rate: ";<br>
-                            cin >> percent;<br>
+                            Console.WriteLine("Please, enter the deposit amount: ");<br>
+                            deposit = Console.ReadLine();<br>
+                            Console.WriteLine("Enter the number of months: ");<br>
+                            months = Console.ReadLine();<br>
+                            Console.WriteLine("Enter the annual interest rate: ");<br>
+                            percent= Console.ReadLine();<br>
                             income = deposit * percent/100 * months/12;<br>
-                            cout << "Profit: " << income << ", total payout amount: " << deposit + income << "\n";
+                            Console.WriteLine("Profit: " + income + ", total payout amount: " + deposit + income + "\n";
                         </code>
                 </div>
                 <div class="block" id="education">
