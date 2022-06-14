@@ -45,5 +45,5 @@ faculty of Applied Informatics
 ## **Languages**
  * *Russian* - Native
  * *English* - Intermidiate
- * *Ukranian* - Intermidiate
+ * *Ukrainian* - Intermidiate
  * *German* - Elementary
