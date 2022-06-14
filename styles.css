@@ -11,6 +11,7 @@ body{
 
 *{
     box-sizing:border-box;
+    scroll-behavior: smooth;
 
 }
 
@@ -22,12 +23,30 @@ body{
     flex-direction: column;
     background: rgba(143, 4, 168, 0.31);
     align-items: center;
+    justify-content: space-between;
+}
+
+.header{
+    width: 85%;
+    display:flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.header li{
+    list-style: none;
 }
 
 .container{
-    float: right;
-    width: 100%;
-    padding-left: 60%;
+    width: 50%;
+    display:flex;
+    flex-direction: column;
+}
+
+nav{
+    height: 50%;
+    width: 50%;
+    margin-top: 30px;
 }
 
 .block{
@@ -38,6 +57,16 @@ body{
     padding-left: 40px;
     max-width: 1000px;
     margin: 20px;
+    margin-left: 40px;
+}
+
+.footer{
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 20px;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 h1{
